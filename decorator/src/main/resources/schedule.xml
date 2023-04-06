@@ -1,0 +1,12 @@
+<contacts>
+    <contact>
+        <code>458</code>
+        <name>Ana Clara</name>
+        <email>anaclara@email.com</email>
+    </contact>
+    <contact>
+        <code>922</code>
+        <name>Ricardo Matos</name>
+        <email>ricardo@email.com</email>
+    </contact>
+</contacts>
